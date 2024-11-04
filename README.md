@@ -54,7 +54,7 @@ Install PHP Manager for IIS. </p>
 <p>Install Microsoft Visual C++ Redistrubutable.</p>
 <p><img width="1710" alt="Screenshot 2024-11-04 at 4 01 47 PM" src="https://github.com/user-attachments/assets/005f6fee-939a-4435-b961-d26a7aeb8fb3">
 </p>
-<p>Install MySQL.</p>
+<p>Install MySQL. Use the typical install option. Make sure to launch the MySQL Instance Configuration Wizard at the end.</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
