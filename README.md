@@ -35,8 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>Create a virtual machine running Windows 10. The virtual machine should be have at least 2 CPUs and 16 GiB of memory. 
 </p>
-<p>
-<br /><img width="1710" alt="Screenshot 2024-11-04 at 11 37 46 AM" src="https://github.com/user-attachments/assets/82a2239f-f989-4c48-b72c-eef9b149a2b0"></p>
+<p><img width="1710" alt="Screenshot 2024-11-04 at 11 37 46 AM" src="https://github.com/user-attachments/assets/82a2239f-f989-4c48-b72c-eef9b149a2b0"></p>
 <p>Log into the virtual machine. </p>
 
 <p><img width="1710" alt="Screenshot 2024-11-04 at 1 37 27 PM" src="https://github.com/user-attachments/assets/05d636eb-06bc-4b16-afbb-e168f25279ee"></p>
@@ -48,8 +47,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Install PHP Manager for IIS. </p>
 <p><img width="1710" alt="Screenshot 2024-11-04 at 2 58 52 PM" src="https://github.com/user-attachments/assets/7b06832c-e39e-4227-9434-6389bc90e499"></p>
 <p>Install Rewrite Module</p>
-
-<br />
+<p><img width="1710" alt="Screenshot 2024-11-04 at 3 11 24 PM" src="https://github.com/user-attachments/assets/9de55450-7d1f-4e6b-8864-6f0fae44bc5d">
+</p>
+<p>Create a folder on the C drive called PHP</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -57,4 +57,5 @@ Install PHP Manager for IIS. </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
+
 <br />
