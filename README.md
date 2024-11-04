@@ -35,10 +35,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>Create a virtual machine running Windows 10. The virtual machine should be have at least 2 CPUs and 16 GiB of memory. 
 </p>
-<br /><img width="1710" alt="Screenshot 2024-11-04 at 11 37 46 AM" src="https://github.com/user-attachments/assets/82a2239f-f989-4c48-b72c-eef9b149a2b0"></p><img width="1710" alt="Screenshot 2024-11-04 at 1 37 27 PM" src="https://github.com/user-attachments/assets/05d636eb-06bc-4b16-afbb-e168f25279ee">
-
-
+<p>
+<br /><img width="1710" alt="Screenshot 2024-11-04 at 11 37 46 AM" src="https://github.com/user-attachments/assets/82a2239f-f989-4c48-b72c-eef9b149a2b0"></p>
 <p>Log into the virtual machine. </p>
+
+<p><img width="1710" alt="Screenshot 2024-11-04 at 1 37 27 PM" src="https://github.com/user-attachments/assets/05d636eb-06bc-4b16-afbb-e168f25279ee"></p>
+<p>Open the control panel and enable internet information services. Also enable CGI. To get to this click World Wide Web Services folder then click Application Development Features. Check the CGI folder. Then press ok. </p>
+
+
+
 
 <p><img width="1710" alt="Screenshot 2024-11-04 at 11 33 15 AM" src="">
 </p>
