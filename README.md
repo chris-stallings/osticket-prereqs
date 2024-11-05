@@ -91,9 +91,34 @@ Install PHP Manager for IIS. </p>
   <img width="1710" alt="Screenshot 2024-11-05 at 4 40 38 PM" src="https://github.com/user-attachments/assets/52e231cf-6c5b-4b5c-b861-5d868135b17b">
 </p>
 <p>Refresh the browser that had the osTicket installation page. Make sure you have all green check marks except for the last two. Those aren't necessary for this installation. </p>
-
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img width="1710" alt="Screenshot 2024-11-05 at 4 48 34 PM" src="https://github.com/user-attachments/assets/dd987c37-f08b-4047-a2f1-df1c0a89529a">
 </p>
+<p>Open the osTicket folder on your computer. Navigate to the include folder. Locate the file ost-sampleconfig.php. Rename this file ost-config.php</p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 5 01 33 PM" src="https://github.com/user-attachments/assets/71806d11-3971-4a8f-972b-ad437cb041a3">
+</p>
+<p>
+  Edit the permissions of this file. Right click then go to properties. Click the security tab then advanced button. Disable inheritance first. Then remove all permissions. 
+</p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 5 33 44 PM" src="https://github.com/user-attachments/assets/5d15f86f-ee52-444d-845d-94b6d0da70f7">
+</p>
+<p>
+  Add permission to Everyone as the principal. 
+</p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 5 38 07 PM" src="https://github.com/user-attachments/assets/af475566-eeb7-42d4-915c-b3acc5f83aaa">
+</p>
+<p>
+  Give full control to everyone. Click ok. Click Apply then ok.
+</p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 5 40 36 PM" src="https://github.com/user-attachments/assets/f05500c4-2f36-482d-869b-03a1703be30e">
+</p>
+<p>
+  Return to the installation screen in your web browser. 
+</p>
+
 
 <br />
