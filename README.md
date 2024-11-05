@@ -57,6 +57,11 @@ Install PHP Manager for IIS. </p>
 <p>Install MySQL. Use the typical install option. Make sure to launch the MySQL Instance Configuration Wizard at the end.</p>
 <p><img width="1710" alt="Screenshot 2024-11-05 at 12 14 46 PM" src="https://github.com/user-attachments/assets/ba6ed502-4c32-46de-a9e1-f253352e6760"></p>
 <p>When setting up your server create a Standard Configuration.</p>
+<p><img width="1710" alt="Screenshot 2024-11-05 at 12 34 33 PM" src="https://github.com/user-attachments/assets/42dc5619-70f0-4f26-b7d5-c7bc9d198d60"></p>
+<p>Run IIS as an administrator. </p>
+<p><img width="1710" alt="Screenshot 2024-11-05 at 12 55 31 PM" src="https://github.com/user-attachments/assets/c188c212-9a76-4fb6-9a8c-6eacfce5772e"></p>
+<p>Next we will register PHP from IIS Manager. After you click register you will navigate to where you saved PHP on your harddrive. Make sure to reload IIS when done. </p>
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
