@@ -71,8 +71,22 @@ Install PHP Manager for IIS. </p>
 <img width="1710" alt="Screenshot 2024-11-05 at 4 12 37 PM" src="https://github.com/user-attachments/assets/db08d556-74d1-407a-9c52-6c7f226aef53">  
 </p>
 <p>Rename upload folder osTicket after it is moved.</p>
-
-
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 4 14 45 PM" src="https://github.com/user-attachments/assets/9b8d4d4f-1fa3-4f66-a0f2-3c2208acd325">
+</p>
+<p>Navigate to the osTicket folder within IIS. Once there click browse *.80(http) on the right hand side.</p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 4 17 32 PM" src="https://github.com/user-attachments/assets/5aebeed2-5077-420a-9dbe-be0bf2030d17">
+</p>
+<p>This will load the osTicket installation page in your default web browser. Before we install we need to fix some of the features. </p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 4 24 37 PM" src="https://github.com/user-attachments/assets/ad2fa499-df18-4836-b2dc-e02a7eb2420d">
+</p>
+<p>Go back to IIS. Double click the PHP Manager icon within the osTicket folder. Then click the enable or disable an extension. </p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 4 35 27 PM" src="https://github.com/user-attachments/assets/9a017eda-b955-43a6-b118-871190917a2b">
+</p>
+<p>Enable the following extensions php_imap.dll, php_intl.dll, php_opache.dll . After enabling these restart your server. </p>
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
