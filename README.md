@@ -87,6 +87,10 @@ Install PHP Manager for IIS. </p>
   <img width="1710" alt="Screenshot 2024-11-05 at 4 35 27 PM" src="https://github.com/user-attachments/assets/9a017eda-b955-43a6-b118-871190917a2b">
 </p>
 <p>Enable the following extensions php_imap.dll, php_intl.dll, php_opache.dll . After enabling these restart your server. </p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 4 40 38 PM" src="https://github.com/user-attachments/assets/52e231cf-6c5b-4b5c-b861-5d868135b17b">
+</p>
+<p>Refresh the browser that had the osTicket installation page. Make sure you have all green check marks except for the last two. Those aren't necessary for this installation. </p>
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
