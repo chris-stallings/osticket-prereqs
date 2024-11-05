@@ -61,6 +61,17 @@ Install PHP Manager for IIS. </p>
 <p>Run IIS as an administrator. </p>
 <p><img width="1710" alt="Screenshot 2024-11-05 at 12 55 31 PM" src="https://github.com/user-attachments/assets/c188c212-9a76-4fb6-9a8c-6eacfce5772e"></p>
 <p>Next we will register PHP from IIS Manager. After you click register you will navigate to where you saved PHP on your harddrive. Make sure to reload IIS when done. </p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 4 10 21 PM" src="https://github.com/user-attachments/assets/42d94c7e-43e7-4768-83f8-9b60ed15322c">
+</p>
+<p>Extract the osTicket installation folder and copy the upload folder into "c:\inet\wwwroot" folder.</p>
+<p><img width="1710" alt="Screenshot 2024-11-05 at 4 01 55 PM" src="https://github.com/user-attachments/assets/90d81fbd-3862-4dd9-95f9-6edb4f782c19"></p>
+<p>Restart the IIS server when extraction is complete.</p>
+<p>
+<img width="1710" alt="Screenshot 2024-11-05 at 4 12 37 PM" src="https://github.com/user-attachments/assets/db08d556-74d1-407a-9c52-6c7f226aef53">  
+</p>
+<p>Rename upload folder osTicket after it is moved.</p>
+
 
 
 <p>
