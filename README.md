@@ -137,4 +137,8 @@ Install PHP Manager for IIS. </p>
   <img width="1710" alt="Screenshot 2024-11-05 at 6 08 36 PM" src="https://github.com/user-attachments/assets/100ae81a-c376-4a86-9d90-cb54efeff8ba">
 </p>
 <p>Fill in the information from the osTicket database that you just created on the installation page. Press Install Now.</p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 6 11 52 PM" src="https://github.com/user-attachments/assets/751b4438-b89d-4c87-8ee7-dcba88e8bbed">
+</p>
+<p>The installation should be complete and succesful now. </p>
 <br />
