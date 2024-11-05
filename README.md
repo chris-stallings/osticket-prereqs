@@ -114,11 +114,27 @@ Install PHP Manager for IIS. </p>
   Give full control to everyone. Click ok. Click Apply then ok.
 </p>
 <p>
-  <img width="1710" alt="Screenshot 2024-11-05 at 5 40 36 PM" src="https://github.com/user-attachments/assets/f05500c4-2f36-482d-869b-03a1703be30e">
+<img width="1710" alt="Screenshot 2024-11-05 at 5 48 28 PM" src="https://github.com/user-attachments/assets/0c36eb57-b5b8-4277-828b-37fed1174dae">
 </p>
 <p>
-  Return to the installation screen in your web browser. 
+  Return to the installation screen in your web browser. Fill in the first half of the setup page. Make sure the admin e-mail and the default email are two different e-mail addresses. 
 </p>
-
-
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 5 55 33 PM" src="https://github.com/user-attachments/assets/d5ccc3a6-906e-4211-940f-ebfd797b0e7e">
+</p>
+<p>Next we will install HeidiSQL. Install with all the default settings. Make sure to launch HeidiSQL when the install is finished. </p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 6 01 11 PM" src="https://github.com/user-attachments/assets/d0af935f-8639-4870-9790-04ece8cd0590">
+</p>
+<p>Connect to the SQL server we created in a previous step. </p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 6 03 08 PM" src="https://github.com/user-attachments/assets/4eddee7b-a8b1-47a2-9829-90ed02d3011e">
+</p>
+<p>
+  Create a new database called osTicket. 
+</p>
+<p>
+  <img width="1710" alt="Screenshot 2024-11-05 at 6 08 36 PM" src="https://github.com/user-attachments/assets/100ae81a-c376-4a86-9d90-cb54efeff8ba">
+</p>
+<p>Fill in the information from the osTicket database that you just created on the installation page. Press Install Now.</p>
 <br />
