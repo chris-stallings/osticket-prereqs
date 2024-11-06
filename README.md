@@ -15,6 +15,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- HeidiSQL
 
 <h2>Operating Systems Used </h2>
 
@@ -23,10 +24,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create a virtual machine running Windows 10.
-- Login to the virtual machine and enable Internet Information Services with CGI enabled. 
-- Item 3
-- Item 4
-- Item 5
+- Setup Internet Information Services.
+- Install PHP on virtual machine.
+- Install Rewrite Module.
+- Install Microsoft Visual
+- Install MySQL
 
 <h2>Installation Steps</h2>
 
