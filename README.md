@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="699" alt="Screenshot 2024-11-07 at 11 36 30 AM" src="https://github.com/user-attachments/assets/8192c223-200b-4535-a9db-9d94974ee30f">
+
 </p>
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
