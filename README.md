@@ -143,4 +143,7 @@ Install PHP Manager for IIS. </p>
   <img width="1710" alt="Screenshot 2024-11-05 at 6 11 52 PM" src="https://github.com/user-attachments/assets/751b4438-b89d-4c87-8ee7-dcba88e8bbed">
 </p>
 <p>The installation should be complete and succesful now. </p>
-<br />
+<p>Admin/Analyst Login Page:</p>
+<p><a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a> </p>
+<p>End Users osTicket URL:</p>
+<p><a href="http://localhost/osTicket">http://localhost/osTicket</a> </p>
